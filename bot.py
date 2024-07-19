@@ -15,7 +15,7 @@ bot = Client(
 async def start_bot():
     print("[INFO]: STARTING BOT CLIENT")
     await bot.start()
-    A_q_lp = "TR_E2S_ON_MY_MOoN"
-    await bot.send_message(A_q_lp, "** اشتغلت . **")
-    print("[INFO]:   ")
+    M_9_T = "M_9_T"
+    await bot.send_message(M_9_T, "𓏺 𝘾َِ𝘳- 𝙉َِ𝘰َِ𝙐َِ𝘳 Ꮠ͋͢➢𝙀َِ𝘭َِ𝙃َِ𝘢َِ𝙆َِ𝘦َِ𝙈⤸")
+    print("[INFO]: 𓏺 𝘾َِ𝘳- 𝙉َِ𝘰َِ𝙐َِ𝘳 Ꮠ͋͢➢𝙀َِ𝘭َِ𝙃َِ𝘢َِ𝙆َِ𝘦َِ𝙈⤸")
     await idle()
