@@ -16,6 +16,6 @@ async def start_bot():
     print("[INFO]: STARTING BOT CLIENT")
     await bot.start()
     M_9_T = "M_9_T"
-    await bot.send_message(M_9_T, "𓏺 𝘾َِ𝘳- 𝙉َِ𝘰َِ𝙐َِ𝘳 Ꮠ͋͢➢𝙀َِ𝘭َِ𝙃َِ𝘢َِ𝙆َِ𝘦َِ𝙈⤸")
-    print("[INFO]: 𓏺 𝘾َِ𝘳- 𝙉َِ𝘰َِ𝙐َِ𝘳 Ꮠ͋͢➢𝙀َِ𝘭َِ𝙃َِ𝘢َِ𝙆َِ𝘦َِ𝙈⤸")
+    await bot.send_message(M_9_T, "**تم تشغيل ال صانع بنجاح عزيزي المطور ...🥀،**")
+    print("[INFO]: تم تشغيل الصانع وارسال رسالة للمطور⚡🚦.")
     await idle()
