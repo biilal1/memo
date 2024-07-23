@@ -6,9 +6,9 @@ from pyrogram import filters
 
 load_dotenv()
 
-OWNER = ["M_9_T"]
+OWNER = ["BDB0B"]
 OWNER_NAME = "𓏺 𝘾َِ𝘳- 𝙉َِ𝘰َِ𝙐َِ𝘳 Ꮠ͋͢➢𝙀َِ𝘭َِ𝙃َِ𝘢َِ𝙆َِ𝘦َِ𝙈⤸"
-BOT_TOKEN = getenv("7327600929:AAF3E7EXyjnlmRlzBUvTu3NSWZcwEo66uC0")
+BOT_TOKEN = getenv("7324813477:AAEU31qskRcD8U-M4IsGpLeGnTT8UIhQRR4")
 DATABASE = getenv("mongodb+srv://veez:mega@cluster0.heqnd.mongodb.net/veez?retryWrites=true&w=majority")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
